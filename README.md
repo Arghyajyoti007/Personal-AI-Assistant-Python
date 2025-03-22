@@ -1,5 +1,9 @@
 # Personal-AI-Assistant-Python
 
+
+https://github.com/user-attachments/assets/f2387b1f-464e-47ff-9562-b19b402abb4c
+
+
 # Project Description:
 Personal AI is a Python-based voice assistant designed to simplify your daily tasks through intuitive voice commands and natural language understanding. Leveraging Google's Gemini AI and robust speech recognition, Personal AI empowers you to perform a variety of functions, including:
 -	Seamless Web Browsing: Effortlessly open websites by voice command (e.g., "Open YouTube," "Open Amazon"). Personal AI intelligently handles both predefined websites and general web searches.
